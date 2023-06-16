@@ -4,8 +4,8 @@ In this task, the goal is to predict the chances of a user listening to a song r
 
 ## KKBOX Data
 KKBOX provides a training data set which consists of information of the first observable listening event for each unique user-song pair within a specific time duration. Metadata of each unique user and song pair is also provided.
-### Tables
-* main.csv
+## Tables
+### main.csv
 * msno: user id
 * song_id: song id
 * source_system_tab: the name of the tab where the event was triggered. System tabs are used to categorize KKBOX mobile apps functions. For example, tab my library contains functions to manipulate the local storage, and tab search contains functions relating to search.
