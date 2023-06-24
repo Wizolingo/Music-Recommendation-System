@@ -60,7 +60,7 @@ dataset
 * explicit: Whether the song contains explicit lyrics or not
 * genre: Genre of song
 
-## Dependencies
+## Installed libraries
 * Pandas
 * Numpy
 * Matplotlib
@@ -69,7 +69,7 @@ dataset
 
 ## Checkpoints
 
-## Data Preparation
+### Data Preparation
 * Loading the datasets
 * Merging the KKBOX datasets
 * Filtering the Spotify data
