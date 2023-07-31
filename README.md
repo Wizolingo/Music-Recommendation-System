@@ -1,5 +1,6 @@
 # Music-Recommendation-System
 
+## Introduction
 In this task, the goal is to predict the chances of a user listening to a song repetitively after the first observable listening event within a time window was triggered. If there are recurring listening event(s) triggered within a month after the user’s very first observable listening event, its target is marked 1, and 0 otherwise in the training set. The two datasets used in this project are the KKBOX and Spotify datasets.
 
 ## KKBOX Data
@@ -59,3 +60,25 @@ dataset
 * explicit: Whether the song contains explicit lyrics or not
 * genre: Genre of song
 
+## Installed libraries
+* Pandas
+* Numpy
+* Matplotlib
+* Seaborn
+* glob
+
+## Checkpoints
+
+### Data Preparation
+* Loading the datasets
+* Merging the KKBOX datasets
+* Filtering the Spotify data
+* Joining the KKBOX and Spotify datasets
+* Cleaning the data
+* Removing irrelevant features
+* Descriptive statistics
+* Outlier treatment
+* Handling missing values
+* Exporting data to csv
+
+[Download Datasets](https://drive.google.com/drive/folders/1UROSvo7DGHmzSkI5WKBmSrEQ-jck0qfy?usp=drive_link)
