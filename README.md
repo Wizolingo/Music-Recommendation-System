@@ -80,5 +80,3 @@ dataset
 * Outlier treatment
 * Handling missing values
 * Exporting data to csv
-
-[Download Datasets](https://drive.google.com/drive/folders/1UROSvo7DGHmzSkI5WKBmSrEQ-jck0qfy?usp=drive_link)
